@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanssilveira&layout=compact)
 
-### Tecnologias que estudo/uso no dia dia
+### Tecnologias que estudo/uso no dia
 
 <div style= "display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,4 +20,4 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 <br/>
-Desde criança apaixonado por tecnologia, em busca de aprimorar e crescer como programador.
+##Desde criança apaixonado por tecnologia, em busca de aprimorar e crescer como programador.
